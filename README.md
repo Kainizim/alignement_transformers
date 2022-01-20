@@ -1,7 +1,7 @@
 # alignement_transformers
 Protein sequence alignement using Transformers
 
-# M2 Bioinformatics - Projet long - Université de paris - Hippolyte MIZINIAK
+## M2 Bioinformatics - Projet long - Université de paris - Hippolyte MIZINIAK
 
 Link ProTrans (make embedding) : https://github.com/agemagician/ProtTrans
 
