@@ -57,7 +57,7 @@ Folder :
 
 # Creating manually conda environment
 ```
-$ conda create env -n alignement_transformers
+$ conda create env -n alignement_transformers python=3.9
 $ conda activate alignement_transformers
 $ conda install numpy matplotlib 
 ```
